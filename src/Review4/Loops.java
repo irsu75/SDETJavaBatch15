@@ -1,4 +1,4 @@
-package Rewiew4;
+package Review4;
 
 import java.util.Scanner;
 

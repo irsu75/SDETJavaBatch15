@@ -1,4 +1,4 @@
-package Rewiew4;
+package Review4;
 
 public class ForLoop {
     public static void main(String[] args) {
