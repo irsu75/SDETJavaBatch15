@@ -1,0 +1,14 @@
+           Interface:
+
+Interface is very similar to an abstract class. it is a contract between unrelated classes. We can use it
+to achieve abstraction. All methods are public by default and abstract as well. All
+
+
+
+
+
+
+
+
+
+
