@@ -15,7 +15,7 @@ public class ExcelReaderDemo1 {
         /*
         Location  of file on the computer
          */
-        String path="Files/Book3.xlsx";
+        String path="Files/Book1.xlsx";
 
         //Navigate to the file
         FileInputStream fileInputStream=new FileInputStream(path);
