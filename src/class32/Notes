@@ -19,3 +19,9 @@ How To Read/write data from files
     1) Get the path
     2) use FileInputStream/FileOutputStream to navigate.
     3) use a specialized class like Properties or XSSFWorkBook.
+    ============================================================================================================
+
+ What are Exception?
+     Exceptions are runtime issues that can stop normal flow of our programs and can abruptly terminate the
+     programs which is very bad and leads to bad user experience.
+
