@@ -25,3 +25,7 @@ How To Read/write data from files
      Exceptions are runtime issues that can stop normal flow of our programs and can abruptly terminate the
      programs which is very bad and leads to bad user experience.
 
+ Exception Handling:
+     We stop the program from terminating abruptly, and we try to mitigate the issue we provide a backup code.
+     and convert the error messages to simple text.
+
